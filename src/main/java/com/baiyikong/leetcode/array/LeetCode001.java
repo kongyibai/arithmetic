@@ -1,4 +1,6 @@
-public class Test {
+package arithmetic.src.main.java.com.baiyikong.leetcode.array;
+
+public class LeetCode001 {
     public static void main(String[] args) {
      int temp1 = (int)Math.pow(2,31);
      int temp2 = (int)Math.pow(10,9);
